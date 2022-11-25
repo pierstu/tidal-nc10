@@ -10,4 +10,4 @@
 ## todo
 - bash script : install dependencies 
 - bash script : cp or mv files
-
+- vim / tidalvim cheatsheet
